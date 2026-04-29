@@ -299,14 +299,11 @@ Fig. 5: Taxonomy of **Efficient Data Collection** strategies in VLAs. This figur
 If you find this survey helpful for your research or applications, please consider citing it using the following BibTeX entry:
 
 ```
-@misc{yu2025efficientvlassurvey,
-      title={A Survey on Efficient Vision-Language-Action Models}, 
-      author={Zhaoshu Yu and Bo Wang and Pengpeng Zeng and Haonan Zhang and Ji Zhang and Lianli Gao and Jingkuan Song and Nicu Sebe and Heng Tao Shen},
-      year={2025},
-      eprint={2510.24795},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2510.24795}, 
+@article{yu2025survey,
+  title={A survey on efficient vision-language-action models},
+  author={Yu, Zhaoshu and Wang, Bo and Zeng, Pengpeng and Zhang, Haonan and Zhang, Ji and Wang, Zheng and Gao, Lianli and Song, Jingkuan and Sebe, Nicu and Shen, Heng Tao},
+  journal={arXiv preprint arXiv:2510.24795},
+  year={2025}
 }
 ```
 
